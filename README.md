@@ -6,6 +6,8 @@ The repository collects the note I wrote for the book *MATHEMATICS FOR MACHINE L
 
 The content is mostly directly from the book. There could be some mistakes because of not full concentration though. Also, some may be missing because of laziness.
 
+MML-book link: [Mathematics for Machine Learning | Companion webpage to the book “Mathematics for Machine Learning”. Copyright 2020 by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. Published by Cambridge University Press. (mml-book.github.io)](https://mml-book.github.io/)
+
 ## Contents
 
 |                      Title                      | CHapter of mml-book |
